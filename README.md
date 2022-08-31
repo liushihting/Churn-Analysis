@@ -1,6 +1,6 @@
 # Churn-Analysis
 
-Identified leading factors causing customer churn by exploring data analysis and build models to predict whether the customer will churn or not with 87% accuracy 
+Identified leading factors causing customer churn by exploring data analysis and build models to predict whether the customer will churn or not with hyperparameter tuning via GridSearchCV, increasing roc score by 13% and achieving 87% accuracy
 
 Inspired by 
 - Bank Customer Churn Prediction  
